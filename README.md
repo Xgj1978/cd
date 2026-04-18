@@ -1,2 +1,0 @@
-# cd
-open index.html
