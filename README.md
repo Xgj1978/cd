@@ -1,2 +1,2 @@
 # cd
-打开菜单
+open index.html
